@@ -7,10 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 <h1>What its contain!<h1>
-<li>You can create data</li>
-<li>you can Update or edit data</li>
-<li>you can Delete data</li>
-<li>After completing task you can mark as completed data</li><br>
+<ul>
+    <li>You can create data</li>
+    <li>you can Update or edit data</li>
+    <li>you can Delete data</li>
+    <li>After completing task you can mark as completed data</li>
+</ul>
+<br>
 
 <h2>What you need to do!</h2>
 <ul>
